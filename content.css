@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Gemunu+Libre:wght@200&family=Oswald&display=swap');
+.page {
+  width: 500px;
+  background-color: grey
+}
+
+#article_title {
+font-family: 'Anton', sans-serif;
+letter-spacing: 3px;
+padding: 5px;
+}
+
+#intro {
+font-family: 'Oswald', sans-serif;
+line-height: 200%;
+padding: 5px;
+font-size: large;
+}
+
+.question{
+font-family: 'Gemunu Libre', sans-serif;
+padding: 5px;
+font-size: large;
+}
+
+.answer{
+font-family: 'Gemunu Libre', sans-serif;
+padding: 5px;
+font-size: 20px;
+}
+
+#block_quote {
+font-family: 'Oswald', sans-serif;
+border-left: 2px solid black;
+font-size: 30px;
+margin: 60px;
+}
+
+#font-face {
+font-family: 'Anton', sans-serif;
+font-family: 'Gemunu Libre', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
